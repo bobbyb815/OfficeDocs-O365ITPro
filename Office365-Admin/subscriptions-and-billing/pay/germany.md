@@ -19,9 +19,8 @@ Please pay in EUR only and reference invoice number(s) on your payment remittanc
 
 ## Electronic Funds Transfer
 
-**Bank:** Citibank, London  
-**SWIFT Code/BIC:** CITIGB2L  
-**IBAN:** GB31CITI18500812207591  
-**SORT Code:** 185008  
-**Account Number:** 12207591  
+**Bank:** JP Morgan CHASE BANK 
+**SWIFT Code/BIC:** PBANUA2XL  
+**IBAN:** UA313052990004731185611812295  
+**Account Correspondent:** 0011000080  
 **Account Name:** MICROSOFT 
