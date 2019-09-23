@@ -20,8 +20,8 @@ Please pay in USD only and reference invoice number(s) on your payment remittanc
 
 ## Electronic Funds Transfer
 
-**Bank:** Citibank, London  
-**SWIFT Code:** CITIGB2L  
-**IBAN:** GB95CITI18500812510049  
-**Account Number:** 12510049  
+**Bank:** JSC UNIVERSAL BANK  
+**SWIFT Code:** UNJSUAUKXXX  
+**IBAN:** UA273220010000026207302941513  
+**Account Number:** 5375418801975202  
 **Account Name:** MICROSOFT  
