@@ -26,8 +26,8 @@ Express Mail: Lockbox 842103, 1950 N. Stemmons Frwy, Ste. 5010, Dallas, TX 75207
 
 ## Electronic Funds Transfer
 
-**Bank:** Bank of America  
-**SWIFT Code:** BOFAUS3N  
-**ABA/Routing Number:** 111 000 012  
-**Account Number:** 4426587954  
+**Bank:** DEUTSCHE BANK TRUST CO AMERICAS  
+**SWIFT Code:** BKTRUS33XXX  
+**ABA/Routing Number:** 021001033  
+**Account Number:** 4452477  
 **Account Name:** Microsoft  
