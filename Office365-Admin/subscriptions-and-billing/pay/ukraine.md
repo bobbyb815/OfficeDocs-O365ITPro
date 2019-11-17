@@ -20,8 +20,8 @@ Please pay in USD only and reference invoice number(s) on your payment remittanc
 
 ## Electronic Funds Transfer
 
-**Bank:** Citibank, London  
-**SWIFT Code:** CITIGB2L  
-**IBAN:** GB95CITI18500812510049  
-**Account Number:** 12510049  
-**Account Name:** MICROSOFT  
+
+**SWIFT Code:** PBANUA2X  
+**IBAN:** UA343052990005169360000337422  
+**Account Number:** 5169360000337422  
+ 
